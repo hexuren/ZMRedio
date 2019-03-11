@@ -1,0 +1,6 @@
+framework module Pods_LittleHelper {
+  umbrella header "Pods-LittleHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}
